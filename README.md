@@ -2,6 +2,7 @@
 This project implements a Decision Tree Classifier using scikit-learn with a focused analysis on model complexity control through pre-pruning and post-pruning techniques.The primary goal was to study how tree depth and pruning strategies impact overfitting and generalization performance.
  # Project Objectives
 1.Implement a Decision Tree classifier using sklearn
+
 2.Apply pre-pruning techniques to control early tree growth
 3.Apply post-pruning (Cost Complexity Pruning) using ccp_alpha
 4.Compare model performance before and after pruning
